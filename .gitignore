@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+*.db
+*.db-wal
+*.db-shm
+.pytest_cache/
+
+desktop_client/build/
+desktop_client/.dart_tool/
+desktop_client/.flutter-plugins*
+desktop_client/windows/flutter/ephemeral/
+
+packaging/.venv/
+packaging/build/
+packaging/pyi_dist/
+dist/

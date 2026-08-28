@@ -1,0 +1,54 @@
+Gestor de Horas Extra — demo INKLUSIVA S.A.S.
+=============================================
+
+Qué es
+------
+Reemplazo del formulario de Microsoft Forms y del Excel
+"Registro de horas extras en operaciones". Las operativas
+registran; el jefe de operaciones aprueba o rechaza;
+RRHH descarga el CSV con las columnas del Excel actual.
+
+Cómo abrirla
+------------
+1. Descomprima esta carpeta.
+2. Doble clic en GestorHorasExtra.exe.
+3. Si Windows avisa, pulse Más información → Ejecutar de todas formas.
+4. En el login pulse un acceso rápido o entre con usuario y clave.
+
+Personas (contraseña de todas: inklusiva)
+-----------------------------------------
+  Jefe de operaciones (aprueba / rechaza)
+    JEFEOP    Jefe de Operaciones
+
+  RRHH (solo descarga el Excel)
+    ADRIANA   Colaborador 7
+    JULIANA   Colaborador 5
+
+  Operativas (registran horas)
+    LUISA     Colaborador 2
+    JOANNA    Colaborador 8
+    MARILUZ   Colaborador 3
+    YORLADIS  Colaborador 1
+
+También se puede entrar con el correo (ej. usuario@example.com).
+
+Quién solicita el apoyo (jefes comerciales)
+-------------------------------------------
+  Hernán Darío Giraldo Carmona
+  Natalia Ramírez Echavarría
+
+Qué probar
+----------
+1. Entre como LUISA, registre horas (fecha, inicio/fin AM-PM,
+   actividad, quién solicita, observación adicional) y Enviar.
+2. El tablero queda en "En revisión".
+3. Cierre sesión y entre como JEFEOP. En la bandeja verá la
+   actividad. Pulse Aprobar o Rechazar.
+4. Vuelva a entrar como LUISA: debe aparecer la notificación
+   y el tablero pasa a "Aprobado" o "Rechazado".
+5. Entre como ADRIANA y exporte el CSV; ábralo en Excel.
+   RRHH no puede aprobar ni rechazar.
+
+Requisitos: Windows 10/11 64 bits. Los datos quedan en la
+carpeta "datos" junto al .exe. Si ya tenía una demo anterior,
+borre esa carpeta "datos" para recargar personas y roles.
