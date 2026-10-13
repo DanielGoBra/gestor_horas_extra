@@ -40,14 +40,14 @@ _FESTIVOS_2026 = [
 
 # codigo, nombre, correo, area, rol, clave
 _USUARIOS = [
-    ("ADMIN-1", "Admin INKLUSIVA", "usuario@example.com", "Sistemas", "ADMIN", "admin123"),
-    ("ADRIANA", "Colaborador 7", "usuario@example.com", "RecursosHumanos", "RH", "inklusiva"),
-    ("JULIANA", "Colaborador 5", "usuario@example.com", "RecursosHumanos", "RH", "inklusiva"),
-    ("JEFEOP", "Jefe de Operaciones", "usuario@example.com", "Operaciones", "JEFE_OPERACIONES", "inklusiva"),
-    ("LUISA", "Colaborador 2", "usuario@example.com", "Operaciones", "OPERATIVO", "inklusiva"),
-    ("JOANNA", "Colaborador 8", "usuario@example.com", "Operaciones", "OPERATIVO", "inklusiva"),
-    ("MARILUZ", "Colaborador 3", "usuario@example.com", "Operaciones", "OPERATIVO", "inklusiva"),
-    ("YORLADIS", "Colaborador 1", "usuario@example.com", "Operaciones", "OPERATIVO", "inklusiva"),
+    ("ADMIN-1", "Admin INKLUSIVA", "admin-1@example.com", "Sistemas", "ADMIN", "admin123"),
+    ("ADRIANA", "Colaborador 7", "adriana@example.com", "RecursosHumanos", "RH", "inklusiva"),
+    ("JULIANA", "Colaborador 5", "juliana@example.com", "RecursosHumanos", "RH", "inklusiva"),
+    ("JEFEOP", "Jefe de Operaciones", "jefeop@example.com", "Operaciones", "JEFE_OPERACIONES", "inklusiva"),
+    ("LUISA", "Colaborador 2", "luisa@example.com", "Operaciones", "OPERATIVO", "inklusiva"),
+    ("JOANNA", "Colaborador 8", "joanna@example.com", "Operaciones", "OPERATIVO", "inklusiva"),
+    ("MARILUZ", "Colaborador 3", "mariluz@example.com", "Operaciones", "OPERATIVO", "inklusiva"),
+    ("YORLADIS", "Colaborador 1", "yorladis@example.com", "Operaciones", "OPERATIVO", "inklusiva"),
 ]
 
 

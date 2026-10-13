@@ -132,7 +132,7 @@ class _VistaLoginState extends ConsumerState<VistaLogin> {
                           textInputAction: TextInputAction.next,
                           style: const TextStyle(fontWeight: FontWeight.w700, color: Paleta.tinta),
                           decoration: const InputDecoration(
-                            hintText: 'LUISA o usuario@example.com',
+                            hintText: 'LUISA o luisa@example.com',
                             prefixIcon: Icon(IconosInk.identificacion),
                           ),
                         ),

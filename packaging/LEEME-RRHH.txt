@@ -30,7 +30,7 @@ Personas (contraseña de todas: inklusiva)
     MARILUZ   Colaborador 3
     YORLADIS  Colaborador 1
 
-También se puede entrar con el correo (ej. usuario@example.com).
+También se puede entrar con el correo (ej. luisa@example.com).
 
 Quién solicita el apoyo (jefes comerciales)
 -------------------------------------------
